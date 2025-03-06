@@ -4,7 +4,7 @@
 This project analyzes the **Netflix Daily Top 10 in the United States**, exploring trends in content rankings, viewership scores, and the impact of release dates on performance. Using data visualization and statistical techniques, this analysis aims to understand:
 - 🔥 How frequently certain titles appear in the Top 10.
 - 🎬 The difference in popularity between Movies vs. TV Shows.
-- 📈 The relationship between Viewership Scores, Rank, and Days in Top 10**.
+- 📈 The relationship between Viewership Scores, Rank, and Days in Top 10.
 - 🗓️ How release dates and seasons affect a show's performance.  
 
 ---
