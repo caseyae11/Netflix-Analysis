@@ -1,7 +1,5 @@
 # Netflix Top 10 Analysis
 
-**Live link to repository**: [GitHub Repo](YOUR_GITHUB_REPO_LINK)
-
 ## 📌 Project Overview
 This project analyzes the **Netflix Daily Top 10 in the United States**, exploring trends in content rankings, viewership scores, and the impact of release dates on performance. Using data visualization and statistical techniques, this analysis aims to understand:
 - 🔥 How frequently certain titles appear in the Top 10.
